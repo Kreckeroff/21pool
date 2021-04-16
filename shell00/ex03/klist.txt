@@ -1,0 +1,6 @@
+Credentials cache: API:8BBE7CA1-8213-4E02-A54F-7B88AB6D7AA2
+        Principal: rbowen@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 16 16:29:26 2021  Feb 17 02:29:05 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+
